@@ -1,39 +1,49 @@
 /* style.css */
-body{
-  background: rgb(226,246,250);
-  color: rgb(122,52,231);
-  font-size: 30px;
-  font-family: Courier;
+body {
+  background: linear-gradient(#a7cde0, #d4dce0)
 }
-h1{
-  font-family: Courier;
-  color: rgb(52,166,231); 
+header {
+  font-family:calibri ; 
+  color: rgb(0,0,0);
+  font-size:60px;
+  text-align:center;
+}
+h1 {
+  font-family: gabriela;
+  color:#184b65;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 25px;
 }
 h2 {
-  font-family: Courier;
-  color: rgb(52,166,231);
+  font-family: gabriela;
+  color:#184b65;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 25px;
 }
-h3 {
-  font-family: Courier;
-  color: rgb(52,166,231);
+h3{
+  font-family: gabriela;
+  color:#184b65;
   font-weight: lighter;
-  font-size: 20px;
-}
-h4 {
-  font-family: Courier;
-  color: rgb(52,166,231);
-  font-weight: lighter;
-  font-size: 20px;
+  font-size: 25px
 }
 a {
-  color: rgb(212,52,231);
-  font-size:20px;
+  color: rgb(1,80,216) ;
+  font-size:15px;
+  font-family:arial ;
 }
 a:hover {
   text-decoration: none;
-  color: rgb(122,52,231);
+  color: purple;
 } 
+p {
+  font-size:20px;
+  font-family:gabriela;
+}
+li {
+  font-size:20px;
+}
+footer{
+color:black;
+font-size:15px;
+text-align:center;
+}
