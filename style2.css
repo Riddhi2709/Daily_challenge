@@ -1,0 +1,49 @@
+/* style.css */
+body {
+  background: linear-gradient(#a7cde0, #d4dce0)
+}
+header {
+  font-family:calibri ; 
+  color: rgb(0,0,0);
+  font-size:60px;
+  text-align:center;
+}
+h1 {
+  font-family: gabriela;
+  color:#184b65;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h2 {
+  font-family: gabriela;
+  color:#184b65;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h3{
+  font-family: gabriela;
+  color:#184b65;
+  font-weight: lighter;
+  font-size: 25px
+}
+a {
+  color: rgb(1,80,216) ;
+  font-size:15px;
+  font-family:arial ;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+} 
+p {
+  font-size:20px;
+  font-family:gabriela;
+}
+li {
+  font-size:20px;
+}
+footer{
+color:black;
+font-size:15px;
+text-align:center;
+}
